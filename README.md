@@ -59,5 +59,5 @@ icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<img alt="Python" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB"/>
 
