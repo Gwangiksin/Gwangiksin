@@ -22,18 +22,12 @@
     <a href="mailto:david5432@hanyang.ac.kr">
         <img alt="Gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    
     <a href="https://open.kakao.com/o/sZlrcddg">
         <img alt="kakaotalk" src ="https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=black"/>
-
     </a>
-    
     <a href="https://www.instagram.com/ixht_lux_">
         <img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-
     </a>
-    
-
 </div>
 
 <img alt="Python" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
