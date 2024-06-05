@@ -26,8 +26,7 @@
 
     </a>
     <a href="https://www.instagram.com/ixht_lux_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        <img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
 
 
