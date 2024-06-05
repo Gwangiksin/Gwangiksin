@@ -19,7 +19,7 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     
-    <a href="mailto:david5432@hanyang.ac.kr">
+    <a href="mailto:david5432@hanyang.ac.kr" target="_blank">
         <img alt="Gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 
