@@ -18,21 +18,18 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    
     <a href="mailto:david5432@hanyang.ac.kr" target="_blank">
         <img alt="Gmail" src ="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-
-
     <a href="https://open.kakao.com/o/sZlrcddg">
         <img alt="kakaotalk" src ="https://img.shields.io/badge/kakaotalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=black"/>
     </a>
-
-    
     <a href="https://www.instagram.com/ixht_lux_">
         <img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
+</div>    
 
-    
 
+<img alt="Python" src ="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 
+<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
